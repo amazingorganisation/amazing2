@@ -1,0 +1,23 @@
+SEJOUR FRANCE
+
+<!--Certains pays recellent d'un patrimoine culturel, historique et géographique d'exception : la France fait partie des chefs de file de cette liste.<br>La gastronomie, la mode, les monuments, les régions sont quantités d'éléments qui font la force du patrimoine français. L’Hexagone compte des adresses à visiter à tout prix : entre terre et mer, nature et ville, tous les goûts s’y retrouvent.<br>Comme parcourir la France est la garantie d'un voyage réussi, nous vous proposons la visite d'adresses incontournables du territoire :<br>
+Découvrez les secrets et lieux cachés de Paris ;
+l’atmosphère royale de Versailles ;
+les falaises de  Normandie et le Mont Saint-Michel ;
+la charme méditerranéen de la Côte d’Azur ;
+la Gironde avec son vignoble, ses dunes et ses plages de sable fin ;
+les massifs et volcans d’Auvergne ;
+Strasbourg avec ses maisons à colombages, ses tanneries, ses canneaux et sa gastronomie alsacienne.-->
+
+
+SEJOUR MONDE
+
+<!--Vous rêvez d'évasion, de parcourir le monde ou de vivre de nouvelles expériences ? Alors n'hésitez plus, laissez vous tenter par nos "destinations internationales" : Parcourez au choix l'Europe, l'Afrique, l'Amérique, l'Asie ou l'Océanie. Nous vous garantissons des voyages époustouflants, riches en découvertes, qui laisseront en vous un souvenir durable.-->
+
+CIRCUIT PERSO
+
+<!--<p>En alliant vos idées et notre expérience, nous allons concevoir le voyage qui vous correspondra parfaitement et dont vous garderez un souvenir impérissable. Tels des orfèvres, nous en soignons chaque facette : vous visiterez les plus belles adresses, utiliserez les transports les plus agréables, goûterez à des plats uniques et profiterez d'hôtels de haut-rang. Si vous désirez vivre des expériences authentiques et insolites, n'attendez plus... Poussez la porte de notre agence et le voyage commencera ici.</p>-->
+
+CIRCUIT THEME
+
+<!--Choisissez le circuit qui vous convient parmi nos sélections. Si vous souhaitez découvrir les différentes saveurs du monde,alors le circuit gastronomie est fait pour vous.<br/>Vous êtes plutôt d'humeur aventurier(e), optez pour le circuit découverte<br/> Enfin, vous préférez enrichir votre culture générale alors notre circuit culturel vous tend les bras. <br/>Voyage, culture, ou gastronomie ? N'attendez plus : nous avons le circuit qu'il vous faut !-->

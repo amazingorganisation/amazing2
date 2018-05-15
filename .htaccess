@@ -1,0 +1,6 @@
+<FilesMatch connexion.php>
+AuthUserFile "amazingtravels/.htpasswd"
+AuthName "Accès restreint"
+AuthType Basic
+require valid-user
+</FilesMatch>
