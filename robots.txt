@@ -1,0 +1,9 @@
+
+# Fichier robots.txt pour le site :  http://amazingtravels.000webhostapp.com/
+User-agent: *
+Disallow: /contact.php
+Disallow: /backoffice.php
+Disallow: /database.php
+Sitemap: http://amazingtravels.000webhostapp.com/sitemap.xml
+
+

@@ -14,7 +14,7 @@ if(!isset($_COOKIE['index']))
         <meta name="google-site-verification" content="0-SoA84HGBQrUwSg7A-I4dsr_5JK2JM0znEn9M4mLfY" />
         <link rel="stylesheet" href="./css/style.css" type="text/css">
         <title>Amazing Travels</title>
-        <meta name="description" content=" Découvrez nos voyages époustouflants à des prix défiant toute concurrence." />
+        <meta name="description" content=" Découvrez nos voyages pas cher tout compris, c'est voyages sont époustouflants à des prix défiant toute concurrence." />
     </head>
     <body>
 
@@ -37,11 +37,11 @@ if(!isset($_COOKIE['index']))
             <ul>
                 <li id="step1">
                     <h3>Echanger</h3>
-                    <p>Confiez-nous vos rêves d'évasion : nous trouverons la formule qui comblera vos attentes.</p>
+                    <p>Confiez-nous vos rêves d'évasion : nous trouverons une  formule pas chers tout compris qui comblera vos attentes.</p>
                 </li>
                 <li id="step2">
                     <h3>Préparer</h3>
-                    <p>Bénéficiez de l'expertise de nos spécialistes, ils vous accompagnent dans la réalisation de votre projet.</p>
+                    <p>Bénéficiez de l'expertise de nos spécialistes, ils vous accompagnent dans la réalisation de votre projet fini les mauvaises surprises avec nos formules tout compris vous  partirez l'esprit serein.</p>
                 </li>
                 <li id="step3">
                     <h3>Profiter</h3>

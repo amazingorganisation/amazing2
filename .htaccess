@@ -1,5 +1,10 @@
+
+RewriteEngimne on
+RewriteRule ^(.*)index\.(php|html?)$ /$1[R=301,NC,L]
+ErrorDocument 404 http://www.amazingtravels.com/notfound.html
+
 <FilesMatch connexion.php>
-AuthUserFile "amazingtravels/.htpasswd"
+AuthUserFile /storage/ssd4/885/5346885/public_html/.htpasswd
 AuthName "Accès restreint"
 AuthType Basic
 require valid-user
